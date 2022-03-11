@@ -9,7 +9,7 @@ This is a hobby project
 ## Basic Rules
 
 - First Enter any number between 1 to 100
-- Then CLI response as per you enter a number
-- Chose next number based on response
+- Then CLI response as per your response
+- Chose next number based on CLI response
 - Repeat this step until you choose correct number
 
